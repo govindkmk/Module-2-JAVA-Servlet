@@ -1,5 +1,5 @@
 # Module-2-JAVA-Servlet
-**1. Demo Web Application**
+**1. Demo Web Application:**
 In this Demo web application, I've created one package named as 'Servlet'. In this package I've created two servlet namely.,StudentFronEndServlet and StudentServlet.
 In these servlet, I send data of First servlet 'StudentFrontEndServlet' to second on 'StudenServlet'.
 
